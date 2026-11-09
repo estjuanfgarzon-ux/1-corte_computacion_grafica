@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\introduccion a la computacion grafica\\video\\libraries\\include\\glad\\glad.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\introduccion a la computacion grafica\\video\\libraries\\include\\khr\\khrplatform.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
